@@ -1,5 +1,5 @@
 # Wazuh - Tutoriais Rápidos
-![Wazuh Lab Environment](images/wazuh-tutorials.png)
+![Wazuh Lab Environment](https://github.com/Johnzitos/Wazuh-Tutorials/issues/1#issue-3831329645)
 
 Tutoriais curtos e diretos para instalação, configuração e manutenção do Wazuh SIEM.
 O foco aqui é **praticidade**: comandos prontos, soluções de erros comuns e configurações que funcionam de primeira.
