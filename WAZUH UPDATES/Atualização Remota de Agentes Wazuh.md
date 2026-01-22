@@ -1,5 +1,6 @@
-# Atualização Remota de Agentes Wazuh
-
+<h1 align="center">
+Atualização Remota de Agentes Wazuh
+</h1>
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/709d0381-0ac0-42a2-9efc-2ae8af84576c" alt="Agentes listados com status Active" width="90%"/>
