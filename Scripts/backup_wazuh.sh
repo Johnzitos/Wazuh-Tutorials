@@ -1,4 +1,3 @@
-cat << 'EOF' > backup_wazuh.sh
 #!/bin/bash
 # Script de Backup Wazuh - Salva Configuracoes, Chaves e Integracoes
 
